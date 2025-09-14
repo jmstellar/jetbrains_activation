@@ -7,8 +7,8 @@
 - 2.同时也把破解的方法分享给大家
 
 以下是顺序<br/>
-1.下载代码的内容，并解压压缩包
-2. 按以下路径打开 jetbrains->scripts->install-all-users.vbs
-3.点击done按钮，等待几秒钟
-4.出现success后，关闭窗口
-5.打开激活码文件，复制其内容并填入idea
+1.下载代码的内容，并解压压缩包<br/>
+2. 按以下路径打开 jetbrains->scripts->install-all-users.vbs<br/>
+3.点击done按钮，等待几秒钟  
+4.出现success后，关闭窗口  
+5.打开激活码文件，复制其内容并填入idea  
