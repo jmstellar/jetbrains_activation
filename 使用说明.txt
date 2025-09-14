@@ -1,0 +1,5 @@
+1.将jetbra.zip进行解压
+2.打开解压的文件夹进入script文件夹
+3.双击执行install-current-user.vbs 文件
+4.等待两分钟直到出现 Done 说明文件执行成功
+5.打开idea，将激活码中的信息粘贴到Active code中点击 Active进行启动
